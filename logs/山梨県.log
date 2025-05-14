@@ -1,0 +1,102 @@
+
+🏁 処理開始: 山梨県
+🔍 身延山高等学校 - http://www.min.ac.jp/minhi/
+✅ 特待制度あり: 身延山高等学校
+🔍 日本大学明誠高等学校 - http://www.meisei.hs.nihon-u.ac.jp/
+✅ 特待制度あり: 日本大学明誠高等学校
+🔍 塩山高等学校 - http://www.enzanh.kai.ed.jp/
+🚫 特待制度なし: 塩山高等学校
+🔍 甲府商業高等学校 - http://www.kchs.city.kofu.yamanashi.jp/
+⚠️ 甲府商業高等学校 例外: HTTPSConnectionPool(host='www.kchs.city.kofu.yamanashi.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)')))
+🔍 白根高等学校 - http://www.shirane-hs.kai.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 韮崎高等学校 - http://www.niratakah.kai.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 富士河口湖高等学校 - http://www.kai.ed.jp/kawaguch/
+⚠️ 富士河口湖高等学校 例外: HTTPConnectionPool(host='www.kai.ed.jp', port=80): Max retries exceeded with url: /kawaguch/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x115a58070>: Failed to resolve 'www.kai.ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 韮崎工業高等学校 - http://www.nirasakith.kai.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 甲府昭和高等学校 - http://www.syowah.kai.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 都留興譲館高等学校 - http://www.tsurukojokan.kai.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 身延高等学校 - http://www.minobu.kai.ed.jp/
+🚫 特待制度なし: 身延高等学校
+🔍 巨摩高等学校 - http://www.ko.kai.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 笛吹高等学校 - http://www.fuefukih.kai.ed.jp
+❌ メインページ取得失敗: 403
+🔍 日川高等学校 - http://www.hikawa.kai.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 甲府第一高等学校 - http://www.first.kai.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 北杜高等学校 - http://www.hokutoh.kai.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 甲陵高等学校 - http://koryo.main.jp/hs/
+🚫 特待制度なし: 甲陵高等学校
+🔍 上野原高等学校 - http://www.kai.ed.jp/ueko/index.htm
+⚠️ 上野原高等学校 例外: HTTPConnectionPool(host='www.kai.ed.jp', port=80): Max retries exceeded with url: /ueko/index.htm (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11366bca0>: Failed to resolve 'www.kai.ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 農林高等学校 - http://www.norinh.kai.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 甲府東高等学校 - http://www.kai.ed.jp/higasih/
+⚠️ 甲府東高等学校 例外: HTTPConnectionPool(host='www.kai.ed.jp', port=80): Max retries exceeded with url: /higasih/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113668940>: Failed to resolve 'www.kai.ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 甲府南高等学校 - https://www.kofuminami-h.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 甲府西高等学校 - http://www.nishi.kai.ed.jp/
+🚫 特待制度なし: 甲府西高等学校
+🔍 都留高等学校 - http://www.tsuru-h.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 青洲高等学校 - http://www.seishu.kai.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 富士北稜高等学校 - http://www.hokuryoh.kai.ed.jp/
+🚫 特待制度なし: 富士北稜高等学校
+🔍 山梨高等学校 - http://www.yamah.kai.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 吉田高等学校 - http://www.yoshidah.kai.ed.jp/
+🚫 特待制度なし: 吉田高等学校
+🔍 甲府城西高等学校 - https://www.josaih.kai.ed.jp/
+🚫 特待制度なし: 甲府城西高等学校
+🔍 甲府工業高等学校 - https://www.kofu-th.ed.jp/
+🚫 特待制度なし: 甲府工業高等学校
+🔍 都留高等学校（定時制） - http://www.tsurutei.kai.ed.jp/?doing_wp_cron=1691372358.8427169322967529296875
+❌ メインページ取得失敗: 403
+🔍 甲斐清和高等学校 - https://seika.ito-gakuen.ed.jp/
+✅ 特待制度あり: 甲斐清和高等学校
+🔍 駿台甲府高等学校　塩部キャンパス - https://www.sundai-kofu.ed.jp/high/index.html
+🚫 特待制度なし: 駿台甲府高等学校　塩部キャンパス
+🔍 日本航空高等学校（通信制） - http://www.wing-hs.jp/
+⚠️ 日本航空高等学校（通信制） 例外: HTTPConnectionPool(host='www.wing-hs.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113bacac0>: Failed to resolve 'www.wing-hs.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 韮崎高等学校（定時制） - http://www.niratei.kai.ed.jp/?doing_wp_cron=1691371697.4206221103668212890625
+❌ メインページ取得失敗: 403
+🔍 富士学苑高等学校 - https://gekkouji.ac.jp/
+⚠️ サブページエラー: HTTPSConnectionPool(host='www.kinder.gekkouji.ac.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.kinder.gekkouji.ac.jp'. (_ssl.c:997)")))
+🚫 特待制度なし: 富士学苑高等学校
+🔍 甲府工業高等学校（定時制） - http://www.kofutei.kai.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 巨摩高等学校（定時制） - http://www.komat.kai.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 駿台甲府高等学校　今井キャンパス - https://www.sundai-kofu.ed.jp/art/index.html
+🚫 特待制度なし: 駿台甲府高等学校　今井キャンパス
+🔍 山梨英和高等学校 - http://www.yamanashi-eiwa.ac.jp/jsh/
+🚫 特待制度なし: 山梨英和高等学校
+🔍 帝京第三高等学校 - https://www.teikyo3.ed.jp/
+🚫 特待制度なし: 帝京第三高等学校
+🔍 ひばりが丘高等学校（定時制） - https://www.hibarih.kai.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 山梨学院高等学校 - http://www.yghs.ed.jp
+🚫 特待制度なし: 山梨学院高等学校
+🔍 自然学園高等学校（通信制） - http://shizengakuen.ed.jp/
+🚫 特待制度なし: 自然学園高等学校（通信制）
+🔍 中央高等学校（定時制） - http://www.kai.ed.jp/chuouh/index.htm
+⚠️ 中央高等学校（定時制） 例外: HTTPConnectionPool(host='www.kai.ed.jp', port=80): Max retries exceeded with url: /chuouh/index.htm (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11346de40>: Failed to resolve 'www.kai.ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 日本航空高等学校 - http://www.jaaw-hs.net
+🚫 特待制度なし: 日本航空高等学校
+🔍 駿台甲府高等学校通信制課程 - https://www.sundai-kofu.ed.jp/corr/index.html
+🚫 特待制度なし: 駿台甲府高等学校通信制課程
+🔍 山梨高等学校（定時制） - http://www.yamatei.kai.ed.jp/?doing_wp_cron=1691372268.6820819377899169921875
+❌ メインページ取得失敗: 403
+🔍 中央高等学校（通信制） - http://www.chuouh.kai.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 東海大学付属甲府高等学校 - https://www.kofu.tokai.ed.jp/
+⚠️ 東海大学付属甲府高等学校 例外: HTTPSConnectionPool(host='www.kofu.tokai.ed.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x11366afe0>: Failed to resolve 'www.kofu.tokai.ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🎉 完了: scholarship_result/山梨県_special_scholarship_flag.csv

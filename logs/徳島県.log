@@ -1,0 +1,83 @@
+
+🏁 処理開始: 徳島県
+🔍 徳島文理高等学校 - http://www.bunri.ed.jp/
+🚫 特待制度なし: 徳島文理高等学校
+🔍 生光学園高等学校 - https://www.seikogakuen.ac.jp
+🚫 特待制度なし: 生光学園高等学校
+🔍 小松島高等学校 - https://komatsushima-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 小松島高等学校
+🔍 徳島県立脇町高等学校 - https://wakimachi-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 徳島県立脇町高等学校
+🔍 池田高等学校　三好校 - https://ikeda-miyoshi.tokushima-ec.ed.jp/
+🚫 特待制度なし: 池田高等学校　三好校
+🔍 那賀高等学校 - http://naka-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 那賀高等学校
+🔍 阿波高等学校 - http://awa-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 阿波高等学校
+🔍 富岡東中学・高等学校 - https://tomiokahigashi-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 富岡東中学・高等学校
+🔍 池田高等学校 - https://ikeda-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 池田高等学校
+🔍 鳴門高等学校 - https://naruto-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 鳴門高等学校
+🔍 城南高等学校 - http://jonan-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 城南高等学校
+🔍 海部高等学校 - http://kaifu-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 海部高等学校
+🔍 城北高等学校 - http://johoku-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 城北高等学校
+🔍 徳島商業高等学校 - http://tokusho.tokushima-ec.ed.jp/
+🚫 特待制度なし: 徳島商業高等学校
+🔍 城西高等学校・神山校 - https://joseikamiyama-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 城西高等学校・神山校
+🔍 城西高等学校 - http://josei-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 城西高等学校
+🔍 つるぎ高等学校 - https://tsurugi-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: つるぎ高等学校
+🔍 池田高等学校　辻校 - http://ikeda-tsuji.tokushima-ec.ed.jp/
+🚫 特待制度なし: 池田高等学校　辻校
+🔍 阿南光高等学校 - https://ananhikari-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 阿南光高等学校
+🔍 阿波西高等学校 - http://awanishi-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 阿波西高等学校
+🔍 富岡東高等学校・羽ノ浦校 - https://tomihigashihanoura-hs.tokushima-ec.ed.jp
+🚫 特待制度なし: 富岡東高等学校・羽ノ浦校
+🔍 川島高等学校 - http://kawashima-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 川島高等学校
+🔍 小松島西高等学校 - http://komatsushimanishi-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 小松島西高等学校
+🔍 城東高等学校 - https://joto-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 城東高等学校
+🔍 徳島科学技術高等学校 - https://tokushima-hst.tokushima-ec.ed.jp/
+🚫 特待制度なし: 徳島科学技術高等学校
+🔍 板野高等学校 - http://itano-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 板野高等学校
+🔍 穴吹高等学校 - http://anabuki-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 穴吹高等学校
+🔍 富岡西高等学校 - https://tomiokanishi-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 富岡西高等学校
+🔍 小松島西高等学校勝浦校 - http://komatsushimanishi_katsuura.tokushima-ec.ed.jp
+⚠️ 小松島西高等学校勝浦校 例外: HTTPSConnectionPool(host='komatsushimanishi_katsuura.tokushima-ec.ed.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'komatsushimanishi_katsuura.tokushima-ec.ed.jp'. (_ssl.c:997)")))
+🔍 徳島市立高等学校 - https://www.tokushima-m-hs.ed.jp/
+🚫 特待制度なし: 徳島市立高等学校
+🔍 池田高等学校（定時制） - http://ikeda-phs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 池田高等学校（定時制）
+🔍 鳴門高等学校（定時制） - http://naruto-phs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 鳴門高等学校（定時制）
+🔍 徳島中央高等学校（定時制） - http://www.tokushimachuo.tokushima-ec.ed.jp/
+⚠️ 徳島中央高等学校（定時制） 例外: HTTPConnectionPool(host='www.tokushimachuo.tokushima-ec.ed.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x115577220>: Failed to resolve 'www.tokushimachuo.tokushima-ec.ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 徳島中央高等学校（通信制） - http://tokushimachuo.tokushima-ec.ed.jp/
+🚫 特待制度なし: 徳島中央高等学校（通信制）
+🔍 鳴門渦潮高等学校 - http://narutouzushio-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 鳴門渦潮高等学校
+🔍 吉野川高等学校 - http://yoshinogawa-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 吉野川高等学校
+🔍 富岡東高等学校（定時制） - http://tomiokahigashiteiji-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 富岡東高等学校（定時制）
+🔍 徳島北高等学校 - https://tokushimakita-hs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 徳島北高等学校
+🔍 名西高等学校（定時制） - http://myozai-phs.tokushima-ec.ed.jp/
+🚫 特待制度なし: 名西高等学校（定時制）
+🔍 香蘭高等学校 - https://kouran-kou.jp/
+🚫 特待制度なし: 香蘭高等学校
+🎉 完了: scholarship_result/徳島県_special_scholarship_flag.csv

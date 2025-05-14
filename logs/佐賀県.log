@@ -1,0 +1,103 @@
+
+🏁 処理開始: 佐賀県
+🔍 東明館高等学校 - https://www.tomeikan.ed.jp/
+🚫 特待制度なし: 東明館高等学校
+🔍 弘学館高等学校 - https://www.kogakukan.ac.jp/
+🚫 特待制度なし: 弘学館高等学校
+🔍 佐賀農業高等学校 - https://www.education.saga.jp/hp/saganougyoukoukou/
+🚫 特待制度なし: 佐賀農業高等学校
+🔍 敬徳高等学校 - https://keitoku.ed.jp/
+✅ 特待制度あり: 敬徳高等学校
+🔍 龍谷高等学校 - https://www.sagaryukoku.ed.jp/hsc/
+🚫 特待制度なし: 龍谷高等学校
+🔍 佐賀清和高等学校 - https://sagaseiwa.com/highschool/
+🚫 特待制度なし: 佐賀清和高等学校
+🔍 敬徳高等学校（通信制） - https://keitoku.ed.jp/
+✅ 特待制度あり: 敬徳高等学校（通信制）
+🔍 神埼高等学校 - https://www.education.saga.jp/hp/kanzakikoukou/
+🚫 特待制度なし: 神埼高等学校
+🔍 佐賀工業高等学校 - http://cms.saga-ed.jp/hp/sagakougyoukoukou/
+⚠️ 佐賀工業高等学校 例外: HTTPConnectionPool(host='cms.saga-ed.jp', port=80): Max retries exceeded with url: /hp/sagakougyoukoukou/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x115ab1ff0>: Failed to resolve 'cms.saga-ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 佐賀北高等学校 - http://cms.saga-ed.jp/hp/sagakitakoukou/
+⚠️ 佐賀北高等学校 例外: HTTPConnectionPool(host='cms.saga-ed.jp', port=80): Max retries exceeded with url: /hp/sagakitakoukou/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1138b69b0>: Failed to resolve 'cms.saga-ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 佐賀東高等学校 - https://www.education.saga.jp/hp/sagahigashikoukou/
+🚫 特待制度なし: 佐賀東高等学校
+🔍 太良高等学校 - http://cms.saga-ed.jp/hp/tarakoukou/home/homeMain.do
+⚠️ 太良高等学校 例外: HTTPConnectionPool(host='cms.saga-ed.jp', port=80): Max retries exceeded with url: /hp/tarakoukou/home/homeMain.do (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11351efb0>: Failed to resolve 'cms.saga-ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 武雄高等学校 - https://www.education.saga.jp/hp/takeokoukou
+🚫 特待制度なし: 武雄高等学校
+🔍 小城高等学校 - https://www.education.saga.jp/hp/ogikoukou/
+🚫 特待制度なし: 小城高等学校
+🔍 鹿島高等学校 - http://cms.saga-ed.jp/hp/kashimakoukou/
+⚠️ 鹿島高等学校 例外: HTTPConnectionPool(host='cms.saga-ed.jp', port=80): Max retries exceeded with url: /hp/kashimakoukou/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113d10520>: Failed to resolve 'cms.saga-ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 鳥栖高等学校 - https://www.education.saga.jp/hp/tosukoukou/
+🚫 特待制度なし: 鳥栖高等学校
+🔍 唐津東高等学校 - https://www.education.saga.jp/hp/karatsuhigashikoukou/
+🚫 特待制度なし: 唐津東高等学校
+🔍 佐賀西高等学校 - https://www.education.saga.jp/hp/saganishikoukou/
+🚫 特待制度なし: 佐賀西高等学校
+🔍 伊万里高等学校 - https://www.education.saga.jp/hp/imarikoukou/
+🚫 特待制度なし: 伊万里高等学校
+🔍 伊万里実業高等学校（農林キャンパス） - https://www.education.saga.jp/hp/imarijitsugyoukoukou/
+🚫 特待制度なし: 伊万里実業高等学校（農林キャンパス）
+🔍 唐津西高等学校 - https://www.education.saga.jp/hp/karatsunishikoukou/
+🚫 特待制度なし: 唐津西高等学校
+🔍 神埼清明高等学校 - https://www.education.saga.jp/hp/kanzakiseimeikoukou/
+🚫 特待制度なし: 神埼清明高等学校
+🔍 白石高等学校 - https://www.education.saga.jp/hp/shiroishikoukou-n/
+🚫 特待制度なし: 白石高等学校
+🔍 牛津高等学校 - https://www.education.saga.jp/hp/ushidukoukou/
+🚫 特待制度なし: 牛津高等学校
+🔍 高志館高等学校 - http://cms.saga-ed.jp/hp/koushikankoukou/
+⚠️ 高志館高等学校 例外: HTTPConnectionPool(host='cms.saga-ed.jp', port=80): Max retries exceeded with url: /hp/koushikankoukou/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11351f640>: Failed to resolve 'cms.saga-ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 三養基高等学校 - https://www.education.saga.jp/hp/miyakikoukou/
+🚫 特待制度なし: 三養基高等学校
+🔍 唐津青翔高等学校 - https://www.education.saga.jp/hp/karatsuseishoukoukou/
+🚫 特待制度なし: 唐津青翔高等学校
+🔍 唐津南高等学校 - https://www.education.saga.jp/hp/karatsuminamikoukou/
+🚫 特待制度なし: 唐津南高等学校
+🔍 厳木高等学校 - https://www.education.saga.jp/hp/kyuuragikoukou/
+🚫 特待制度なし: 厳木高等学校
+🔍 北陵高等学校 - https://www.hokuryo.ac.jp/
+⚠️ 北陵高等学校 例外: HTTPSConnectionPool(host='www.hokuryo.ac.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.hokuryo.ac.jp'. (_ssl.c:997)")))
+🔍 有田工業高等学校 - https://www.education.saga.jp/hp/aritakougyoukoukou/
+🚫 特待制度なし: 有田工業高等学校
+🔍 早稲田大学系属　早稲田佐賀高等学校 - https://www.wasedasaga.jp/
+🚫 特待制度なし: 早稲田大学系属　早稲田佐賀高等学校
+🔍 唐津工業高等学校 - http://cms.saga-ed.jp/hp/karatsukougyoukoukou/
+⚠️ 唐津工業高等学校 例外: HTTPConnectionPool(host='cms.saga-ed.jp', port=80): Max retries exceeded with url: /hp/karatsukougyoukoukou/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113baf400>: Failed to resolve 'cms.saga-ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 鳥栖工業高等学校（定時制） - http://cms.saga-ed.jp/hp/tosukougyoukoukou-p
+⚠️ 鳥栖工業高等学校（定時制） 例外: HTTPConnectionPool(host='cms.saga-ed.jp', port=80): Max retries exceeded with url: /hp/tosukougyoukoukou-p (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113baed40>: Failed to resolve 'cms.saga-ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 鳥栖商業高等学校 - http://cms.saga-ed.jp/hp/tosushougyoukoukou
+⚠️ 鳥栖商業高等学校 例外: HTTPConnectionPool(host='cms.saga-ed.jp', port=80): Max retries exceeded with url: /hp/tosushougyoukoukou (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113baf340>: Failed to resolve 'cms.saga-ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 唐津商業高等学校 - https://www.education.saga.jp/hp/karatsushougyoukoukou/
+🚫 特待制度なし: 唐津商業高等学校
+🔍 致遠館高等学校 - https://www.education.saga.jp/hp/chienkankoukou
+🚫 特待制度なし: 致遠館高等学校
+🔍 佐賀女子短期大学付属佐賀女子高等学校 - https://www.asahigakuen.ac.jp/sagajoshikou/
+🚫 特待制度なし: 佐賀女子短期大学付属佐賀女子高等学校
+🔍 多久高等学校 - https://www.education.saga.jp/hp/takukoukou/
+🚫 特待制度なし: 多久高等学校
+🔍 鳥栖工業高等学校 - https://www.education.saga.jp/hp/tosukougyoukoukou/
+🚫 特待制度なし: 鳥栖工業高等学校
+🔍 伊万里実業高等学校（商業キャンパス） - https://www.education.saga.jp/hp/imarijitsugyoukoukou/
+🚫 特待制度なし: 伊万里実業高等学校（商業キャンパス）
+🔍 佐賀北高等学校（通信制） - http://cms.saga-ed.jp/hp/sagakitakoukou-c/
+⚠️ 佐賀北高等学校（通信制） 例外: HTTPConnectionPool(host='cms.saga-ed.jp', port=80): Max retries exceeded with url: /hp/sagakitakoukou-c/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1153bbca0>: Failed to resolve 'cms.saga-ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 嬉野高等学校 塩田校舎（工業科キャンパス） - https://www.education.saga.jp/hp/ureshinokoukou-n/
+🚫 特待制度なし: 嬉野高等学校 塩田校舎（工業科キャンパス）
+🔍 唐津商業高等学校（定時制） - http://cms.saga-ed.jp/hp/karatsushougyoukoukou-p/
+⚠️ 唐津商業高等学校（定時制） 例外: HTTPConnectionPool(host='cms.saga-ed.jp', port=80): Max retries exceeded with url: /hp/karatsushougyoukoukou-p/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1138b76a0>: Failed to resolve 'cms.saga-ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 佐賀工業高等学校（定時制） - http://cms.saga-ed.jp/hp/sagakougyoukoukou-p/
+⚠️ 佐賀工業高等学校（定時制） 例外: HTTPConnectionPool(host='cms.saga-ed.jp', port=80): Max retries exceeded with url: /hp/sagakougyoukoukou-p/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1138b6bc0>: Failed to resolve 'cms.saga-ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 嬉野高等学校 嬉野校舎 総合学科キャンパス - https://www.education.saga.jp/hp/ureshinokoukou-n/
+🚫 特待制度なし: 嬉野高等学校 嬉野校舎 総合学科キャンパス
+🔍 佐賀商業高等学校（定時制） - http://cms.saga-ed.jp/hp/sagashougyoukoukou-p
+⚠️ 佐賀商業高等学校（定時制） 例外: HTTPConnectionPool(host='cms.saga-ed.jp', port=80): Max retries exceeded with url: /hp/sagashougyoukoukou-p (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11360c0d0>: Failed to resolve 'cms.saga-ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 佐賀学園高等学校 - https://www.sagagakuen.ed.jp/
+🚫 特待制度なし: 佐賀学園高等学校
+🔍 有田工業高等学校（定時制） - http://cms.saga-ed.jp/hp/aritakougyoukoukou-p
+⚠️ 有田工業高等学校（定時制） 例外: HTTPConnectionPool(host='cms.saga-ed.jp', port=80): Max retries exceeded with url: /hp/aritakougyoukoukou-p (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113d10730>: Failed to resolve 'cms.saga-ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 佐賀商業高等学校 - https://www.education.saga.jp/hp/sagashougyoukoukou/
+🚫 特待制度なし: 佐賀商業高等学校
+🎉 完了: scholarship_result/佐賀県_special_scholarship_flag.csv

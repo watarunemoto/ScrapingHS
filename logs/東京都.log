@@ -1,0 +1,974 @@
+
+🏁 処理開始: 東京都
+🔍 岩倉高等学校 - http://www.tky-iwakura-h.ed.jp/
+🚫 特待制度なし: 岩倉高等学校
+🔍 成女高等学校 - http://www.seijo-gk.ac.jp/
+✅ 特待制度あり: 成女高等学校
+🔍 京華女子高等学校 - https://www.keika-g.ed.jp
+❌ メインページ取得失敗: 403
+🔍 文京学院大学女子高等学校 - https://www.hs.bgu.ac.jp/
+🚫 特待制度なし: 文京学院大学女子高等学校
+🔍 清瀬高等学校 - https://www.metro.ed.jp/kiyose-h/
+🚫 特待制度なし: 清瀬高等学校
+🔍 京華高等学校 - https://www.keika.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 芝商業高等学校 - http://www.shibashogyo-h.metro.tokyo.jp/
+⚠️ 芝商業高等学校 例外: HTTPConnectionPool(host='www.shibashogyo-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1138818d0>: Failed to resolve 'www.shibashogyo-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 東京電機大学高等学校 - https://www.dendai.ed.jp/
+🚫 特待制度なし: 東京電機大学高等学校
+🔍 目白研心高等学校 - http://mk.mejiro.ac.jp
+🚫 特待制度なし: 目白研心高等学校
+🔍 和洋九段女子高等学校 - https://www.wayokudan.ed.jp/
+🚫 特待制度なし: 和洋九段女子高等学校
+🔍 桜丘高等学校 - https://sakuragaoka.ac.jp/
+🚫 特待制度なし: 桜丘高等学校
+🔍 東洋高等学校 - https://www.toyo.ed.jp/
+🚫 特待制度なし: 東洋高等学校
+🔍 中央学院大学中央高等学校 - http://www.cguch.ed.jp/
+🚫 特待制度なし: 中央学院大学中央高等学校
+🔍 聖心女子学院高等科 - https://www.tky-sacred-heart.ed.jp/02_syokai.html
+🚫 特待制度なし: 聖心女子学院高等科
+🔍 墨田工科高等学校 - https://www.metro.ed.jp/sumidakoka-h/
+🚫 特待制度なし: 墨田工科高等学校
+🔍 東京藝術大学音楽学部附属音楽高等学校 - https://geiko.geidai.ac.jp/
+🚫 特待制度なし: 東京藝術大学音楽学部附属音楽高等学校
+🔍 昭和第一高等学校 - https://www.sdh.ed.jp/
+🚫 特待制度なし: 昭和第一高等学校
+🔍 貞静学園高等学校 - http://www.teiseigakuen.ac.jp/
+🚫 特待制度なし: 貞静学園高等学校
+🔍 麹町学園女子高等学校 - https://www.kojimachi.ed.jp/
+🚫 特待制度なし: 麹町学園女子高等学校
+🔍 桐朋女子高等学校 - https://chuko.toho.ac.jp
+🚫 特待制度なし: 桐朋女子高等学校
+🔍 第五商業高等学校 - http://www.daigoshogyo-h.metro.tokyo.jp/
+⚠️ 第五商業高等学校 例外: HTTPConnectionPool(host='www.daigoshogyo-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11350e560>: Failed to resolve 'www.daigoshogyo-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 富士見丘高等学校 - https://www.fujimigaoka.ac.jp/
+🚫 特待制度なし: 富士見丘高等学校
+🔍 保善高等学校 - https://www.hozen.ed.jp
+🚫 特待制度なし: 保善高等学校
+🔍 二松学舎大学附属高等学校 - https://www.nishogakusha-highschool.ac.jp/
+🚫 特待制度なし: 二松学舎大学附属高等学校
+🔍 帝京八王子高等学校 - https://teihachi.ed.jp/
+🚫 特待制度なし: 帝京八王子高等学校
+🔍 正則高等学校 - https://www.seisoku.ed.jp
+🚫 特待制度なし: 正則高等学校
+🔍 安部学院高等学校 - https://www.abe-gakuin.ed.jp/
+✅ 特待制度あり: 安部学院高等学校
+🔍 関東国際高等学校 - https://www.kantokokusai.ac.jp
+🚫 特待制度なし: 関東国際高等学校
+🔍 京華商業高等学校 - https://www.keika-c.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 かえつ有明高等学校 - https://www.ariake.kaetsu.ac.jp/
+🚫 特待制度なし: かえつ有明高等学校
+🔍 大東学園高等学校 - https://ikou.daitogakuen.ed.jp
+🚫 特待制度なし: 大東学園高等学校
+🔍 文教大学付属高等学校 - https://www.bunkyo.ac.jp/jsh/
+🚫 特待制度なし: 文教大学付属高等学校
+🔍 佼成学園女子高等学校 - https://www.girls.kosei.ac.jp/
+✅ 特待制度あり: 佼成学園女子高等学校
+🔍 下北沢成徳高等学校 - https://www.shimokitazawa-seitoku.ed.jp/
+🚫 特待制度なし: 下北沢成徳高等学校
+🔍 聖学院高等学校 - https://www.seigakuin.ed.jp/
+🚫 特待制度なし: 聖学院高等学校
+🔍 東京実業高等学校 - https://www.tojitsu.ed.jp
+🚫 特待制度なし: 東京実業高等学校
+🔍 瀧野川女子学園高等学校 - https://www.takinogawa.ed.jp/
+🚫 特待制度なし: 瀧野川女子学園高等学校
+🔍 松蔭大学附属松蔭高等学校 - http://www.shoin.ed.jp
+🚫 特待制度なし: 松蔭大学附属松蔭高等学校
+🔍 目黒日本大学高等学校 - https://www.meguro-nichidai.ed.jp
+🚫 特待制度なし: 目黒日本大学高等学校
+🔍 愛国高等学校 - https://www.aikokugakuen.ac.jp/senior-high/
+🚫 特待制度なし: 愛国高等学校
+🔍 東京農業大学第一高等学校 - http://www.nodai-1-h.ed.jp/
+🚫 特待制度なし: 東京農業大学第一高等学校
+🔍 共栄学園高等学校 - https://kyoei-g.ed.jp/
+🚫 特待制度なし: 共栄学園高等学校
+🔍 品川翔英高等学校 - https://www.shinagawa-shouei.ac.jp/jhhs/
+🚫 特待制度なし: 品川翔英高等学校
+🔍 品川学藝高等学校 - https://shinagawa.ed.jp/
+🚫 特待制度なし: 品川学藝高等学校
+🔍 東京成徳大学高等学校（高等部） - https://www.tokyoseitoku.jp/hs/
+🚫 特待制度なし: 東京成徳大学高等学校（高等部）
+🔍 駿台学園高等学校 - https://www.sundaigakuen.ac.jp/
+🚫 特待制度なし: 駿台学園高等学校
+🔍 駒沢学園女子高等学校 - https://www.komajo.ac.jp/jsh/
+🚫 特待制度なし: 駒沢学園女子高等学校
+🔍 駒場学園高等学校 - https://www.komabagakuen.ac.jp/
+🚫 特待制度なし: 駒場学園高等学校
+🔍 中村高等学校 - https://www.nakamura.ed.jp
+✅ 特待制度あり: 中村高等学校
+🔍 東京高等学校 - https://tokyo-hs.jp/
+🚫 特待制度なし: 東京高等学校
+🔍 北豊島高等学校 - http://www.kitatoshima.ed.jp/
+🚫 特待制度なし: 北豊島高等学校
+🔍 羽田国際高等学校 - http://www.kanno.ac.jp/
+🚫 特待制度なし: 羽田国際高等学校
+🔍 修徳高等学校 - http://www.shutoku.ac.jp/
+🚫 特待制度なし: 修徳高等学校
+🔍 品川エトワール女子高等学校 - https://www.etoile.ed.jp/
+🚫 特待制度なし: 品川エトワール女子高等学校
+🔍 玉川聖学院高等部 - http://www.tamasei.ed.jp/
+🚫 特待制度なし: 玉川聖学院高等部
+🔍 多摩大学目黒高等学校 - http://www.tmh.ac.jp/
+✅ 特待制度あり: 多摩大学目黒高等学校
+🔍 国本女子高等学校 - https://kunimoto.ac.jp/jsh/
+✅ 特待制度あり: 国本女子高等学校
+🔍 安田学園高等学校 - https://www.yasuda.ed.jp/
+🚫 特待制度なし: 安田学園高等学校
+🔍 拓殖大学第一高等学校 - https://www.takuichi.ed.jp
+🚫 特待制度なし: 拓殖大学第一高等学校
+🔍 芝浦工業大学附属高等学校 - https://www.fzk.shibaura-it.ac.jp/
+🚫 特待制度なし: 芝浦工業大学附属高等学校
+🔍 八王子学園八王子高等学校 - https://www.hachioji.ed.jp/
+🚫 特待制度なし: 八王子学園八王子高等学校
+🔍 日本大学櫻丘高等学校 - https://www.sakura.chs.nihon-u.ac.jp/
+✅ 特待制度あり: 日本大学櫻丘高等学校
+🔍 共立女子第二高等学校 - https://www.kyoritsu-wu.ac.jp/nichukou/
+🚫 特待制度なし: 共立女子第二高等学校
+🔍 玉川学園高等部 - https://www.tamagawa.jp/academy/
+🚫 特待制度なし: 玉川学園高等部
+🔍 桜美林高等学校 - http://www.obirin.ed.jp
+🚫 特待制度なし: 桜美林高等学校
+🔍 淑徳高等学校 - http://www.shukutoku.ed.jp/
+🚫 特待制度なし: 淑徳高等学校
+🔍 中央大学杉並高等学校 - https://chusugi.jp/
+🚫 特待制度なし: 中央大学杉並高等学校
+🔍 国立音楽大学附属高等学校 - https://www.kunion.ed.jp/
+🚫 特待制度なし: 国立音楽大学附属高等学校
+🔍 国学院大学久我山高等学校 - http://www.kugayama-h.ed.jp/
+🚫 特待制度なし: 国学院大学久我山高等学校
+🔍 日本大学第二高等学校 - https://www.nichidai2.ac.jp/
+🚫 特待制度なし: 日本大学第二高等学校
+🔍 日本大学鶴ヶ丘高等学校 - https://www.tsurugaoka.hs.nihon-u.ac.jp/
+✅ 特待制度あり: 日本大学鶴ヶ丘高等学校
+🔍 フェリシア高等学校 - https://www.felicia.ed.jp/
+✅ 特待制度あり: フェリシア高等学校
+🔍 日本女子体育大学附属二階堂高等学校 - http://www.nikaido.ed.jp
+🚫 特待制度なし: 日本女子体育大学附属二階堂高等学校
+🔍 立川女子高等学校 - https://www.tachikawa-joshi.ac.jp/
+🚫 特待制度なし: 立川女子高等学校
+🔍 啓明学園高等学校 - https://www.keimei.ac.jp/jsh/
+🚫 特待制度なし: 啓明学園高等学校
+🔍 光塩女子学院高等科 - https://www.koen-ejh.ed.jp/
+🚫 特待制度なし: 光塩女子学院高等科
+🔍 東星学園高等学校 - https://www.tosei.ed.jp/
+🚫 特待制度なし: 東星学園高等学校
+🔍 新渡戸文化高等学校 - https://www.el.nitobebunka.ed.jp/
+⚠️ 新渡戸文化高等学校 例外: HTTPSConnectionPool(host='www.el.nitobebunka.ed.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x11521f520>: Failed to resolve 'www.el.nitobebunka.ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 東京家政大学附属女子高等学校 - https://www.tokyo-kasei.ed.jp
+🚫 特待制度なし: 東京家政大学附属女子高等学校
+🔍 巣鴨高等学校 - https://www.sugamo.ed.jp/
+🚫 特待制度なし: 巣鴨高等学校
+🔍 女子美術大学付属高等学校 - http://www.joshibi.ac.jp/fuzoku/
+✅ 特待制度あり: 女子美術大学付属高等学校
+🔍 大東文化大学第一高等学校 - https://www.daito.ac.jp/ichiko/
+🚫 特待制度なし: 大東文化大学第一高等学校
+🔍 川村高等学校 - https://www.kawamura.ac.jp/cyu-kou/
+🚫 特待制度なし: 川村高等学校
+🔍 日本体育大学桜華高等学校 - http://www.ohka.ed.jp/
+✅ 特待制度あり: 日本体育大学桜華高等学校
+🔍 城北高等学校 - https://www.johoku.ac.jp/
+🚫 特待制度なし: 城北高等学校
+🔍 帝京大学高等学校 - https://www.teikyo-u.ed.jp/
+✅ 特待制度あり: 帝京大学高等学校
+🔍 杉並学院高等学校 - http://suginami.ed.jp
+🚫 特待制度なし: 杉並学院高等学校
+🔍 聖徳学園高等学校 - http://jsh.shotoku.ed.jp
+✅ 特待制度あり: 聖徳学園高等学校
+🔍 成蹊高等学校 - http://www.seikei.ac.jp/jsh/
+🚫 特待制度なし: 成蹊高等学校
+🔍 立志舎高等学校 - https://www.risshisha.ed.jp/
+✅ 特待制度あり: 立志舎高等学校
+🔍 北海道芸術高等学校　東京池袋キャンパス（通信制） - https://www.kyokei.ac.jp/
+🚫 特待制度なし: 北海道芸術高等学校　東京池袋キャンパス（通信制）
+🔍 立教英国学院高等部 - http://www.rikkyo.co.uk/
+🚫 特待制度なし: 立教英国学院高等部
+🔍 法政大学高等学校 - http://www.hosei.ed.jp/
+🚫 特待制度なし: 法政大学高等学校
+🔍 桐朋高等学校 - https://www.toho.ed.jp/
+🚫 特待制度なし: 桐朋高等学校
+🔍 文華女子高等学校 - https://www.bunkagakuen.ac.jp
+🚫 特待制度なし: 文華女子高等学校
+🔍 明星学園高等学校 - https://www.myojogakuen.ed.jp/high_school/
+🚫 特待制度なし: 明星学園高等学校
+🔍 自由学園高等部 - https://jiyu.school/
+🚫 特待制度なし: 自由学園高等部
+🔍 武蔵野大学高等学校 - https://www.musashino-u.ed.jp/
+🚫 特待制度なし: 武蔵野大学高等学校
+🔍 荒川工科高等学校 - https://www.metro.ed.jp/arakawakoka-h/
+🚫 特待制度なし: 荒川工科高等学校
+🔍 大島高等学校 - https://www.metro.ed.jp/oshima-h/
+🚫 特待制度なし: 大島高等学校
+🔍 小笠原高等学校 - http://www.ogasawara-h.metro.tokyo.jp/
+⚠️ 小笠原高等学校 例外: HTTPConnectionPool(host='www.ogasawara-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11360ef80>: Failed to resolve 'www.ogasawara-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 墨田川高等学校 - https://www.metro.ed.jp/sumidagawa-h/
+🚫 特待制度なし: 墨田川高等学校
+🔍 大泉高等学校 - https://oizumi-h.metro.ed.jp/main/index.html
+⚠️ 大泉高等学校 例外: HTTPSConnectionPool(host='oizumi-h.metro.ed.jp', port=443): Max retries exceeded with url: /main/index.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x111555900>: Failed to resolve 'oizumi-h.metro.ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 青山高等学校 - http://www.aoyama-h.metro.tokyo.jp/
+⚠️ 青山高等学校 例外: HTTPConnectionPool(host='www.aoyama-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x111556b60>: Failed to resolve 'www.aoyama-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 大山高等学校 - https://www.metro.ed.jp/ohyama-h/
+🚫 特待制度なし: 大山高等学校
+🔍 板橋高等学校 - https://www.metro.ed.jp/itabashi-h/
+🚫 特待制度なし: 板橋高等学校
+🔍 足立高等学校 - https://www.metro.ed.jp/adachi-h/
+🚫 特待制度なし: 足立高等学校
+🔍 筑波大学附属駒場高等学校 - https://www.komaba-s.tsukuba.ac.jp/
+🚫 特待制度なし: 筑波大学附属駒場高等学校
+🔍 足立工科高等学校 - https://www.metro.ed.jp/adachikoka-h/
+🚫 特待制度なし: 足立工科高等学校
+🔍 足立東高等学校 - https://www.metro.ed.jp/adachihigashi-h
+🚫 特待制度なし: 足立東高等学校
+🔍 大田桜台高等学校 - http://www.oota-sakuradai-h.metro.tokyo.jp
+⚠️ 大田桜台高等学校 例外: HTTPConnectionPool(host='www.oota-sakuradai-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113361720>: Failed to resolve 'www.oota-sakuradai-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 立教池袋高等学校 - https://ikebukuro.rikkyo.ac.jp/
+🚫 特待制度なし: 立教池袋高等学校
+🔍 大島海洋国際高等学校 - https://www.metro.ed.jp/oosimakaiyokokusai-h/
+🚫 特待制度なし: 大島海洋国際高等学校
+🔍 大森高等学校 - http://www.omori-h.metro.tokyo.jp/
+⚠️ 大森高等学校 例外: HTTPConnectionPool(host='www.omori-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11649a2c0>: Failed to resolve 'www.omori-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 お茶の水女子大学附属高等学校 - https://www.fz.ocha.ac.jp/fk/
+🚫 特待制度なし: お茶の水女子大学附属高等学校
+🔍 園芸高等学校 - https://www.metro.ed.jp/engei-h/
+🚫 特待制度なし: 園芸高等学校
+🔍 東京科学大学附属科学技術高等学校 - http://www.hst.titech.ac.jp/
+⚠️ 東京科学大学附属科学技術高等学校 例外: HTTPConnectionPool(host='www.hst.titech.ac.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113483580>: Failed to resolve 'www.hst.titech.ac.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 江戸川高等学校 - https://www.metro.ed.jp/edogawa-h/
+🚫 特待制度なし: 江戸川高等学校
+🔍 井草高等学校 - https://www.metro.ed.jp/igusa-h/
+🚫 特待制度なし: 井草高等学校
+🔍 東京学芸大学附属高等学校 - http://www.gakugei-hs.setagaya.tokyo.jp/
+🚫 特待制度なし: 東京学芸大学附属高等学校
+🔍 上野高等学校 - https://www.metro.ed.jp/ueno-h/
+🚫 特待制度なし: 上野高等学校
+🔍 足立西高等学校 - https://www.metro.ed.jp/adachinishi-h/
+🚫 特待制度なし: 足立西高等学校
+🔍 五日市高等学校 - http://www.itsukaichi-h.metro.tokyo.jp/
+⚠️ 五日市高等学校 例外: HTTPConnectionPool(host='www.itsukaichi-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113c5d150>: Failed to resolve 'www.itsukaichi-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 大崎高等学校 - http://www.osaki-h.metro.tokyo.jp/
+⚠️ 大崎高等学校 例外: HTTPConnectionPool(host='www.osaki-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113c5d9c0>: Failed to resolve 'www.osaki-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 筑波大学附属高等学校 - https://www.high-s.tsukuba.ac.jp/
+🚫 特待制度なし: 筑波大学附属高等学校
+🔍 忍岡高等学校 - https://www.metro.ed.jp/shinobugaoka-h/
+🚫 特待制度なし: 忍岡高等学校
+🔍 小岩高等学校 - http://www.koiwa-h.metro.tokyo.jp/
+⚠️ 小岩高等学校 例外: HTTPConnectionPool(host='www.koiwa-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11360ca60>: Failed to resolve 'www.koiwa-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 小松川高等学校 - https://www.metro.ed.jp/komatsugawa-h/
+🚫 特待制度なし: 小松川高等学校
+🔍 杉並総合高等学校 - https://www.metro.ed.jp/suginamisogo-h/
+🚫 特待制度なし: 杉並総合高等学校
+🔍 葛西南高等学校 - http://www.kasaiminami-h.metro.tokyo.jp
+⚠️ 葛西南高等学校 例外: HTTPConnectionPool(host='www.kasaiminami-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1164dd9c0>: Failed to resolve 'www.kasaiminami-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 小平高等学校 - http://www.kodaira-h.metro.tokyo.jp/
+⚠️ 小平高等学校 例外: HTTPConnectionPool(host='www.kodaira-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1164de050>: Failed to resolve 'www.kodaira-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 葛西工科高等学校 - https://www.metro.ed.jp/kasaikoka-h/
+🚫 特待制度なし: 葛西工科高等学校
+🔍 桜町高等学校 - https://www.metro.ed.jp/sakuramachi-h/
+🚫 特待制度なし: 桜町高等学校
+🔍 小山台高等学校 - https://www.metro.ed.jp/koyamadai-h/
+🚫 特待制度なし: 小山台高等学校
+🔍 世田谷総合高等学校 - http://www.setagaya-sogo-h.metro.tokyo.jp
+⚠️ 世田谷総合高等学校 例外: HTTPConnectionPool(host='www.setagaya-sogo-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11351c0d0>: Failed to resolve 'www.setagaya-sogo-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 六本木高等学校（定時制） - https://www.metro.ed.jp/roppongi-he/
+🚫 特待制度なし: 六本木高等学校（定時制）
+🔍 北豊島工科高等学校 - https://www.metro.ed.jp/kitatoshimakoka-h/
+🚫 特待制度なし: 北豊島工科高等学校
+🔍 国立高等学校 - http://www.kunitachi-h.metro.tokyo.jp/
+⚠️ 国立高等学校 例外: HTTPConnectionPool(host='www.kunitachi-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11350dbd0>: Failed to resolve 'www.kunitachi-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 蔵前工科高等学校 - https://www.metro.ed.jp/kuramaekoka-h/
+🚫 特待制度なし: 蔵前工科高等学校
+🔍 片倉高等学校 - http://www.katakura-h.metro.tokyo.jp/
+⚠️ 片倉高等学校 例外: HTTPConnectionPool(host='www.katakura-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11360e9e0>: Failed to resolve 'www.katakura-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 荻窪高等学校（定時制） - https://ogikubo-h.metro.ed.jp/site/tei/
+⚠️ 荻窪高等学校（定時制） 例外: HTTPSConnectionPool(host='ogikubo-h.metro.ed.jp', port=443): Max retries exceeded with url: /site/tei/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x11360d510>: Failed to resolve 'ogikubo-h.metro.ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 駒場高等学校 - https://www.metro.ed.jp/komaba-h/
+🚫 特待制度なし: 駒場高等学校
+🔍 鷺宮高等学校 - https://www.metro.ed.jp/saginomiya-h/
+🚫 特待制度なし: 鷺宮高等学校
+🔍 北園高等学校 - https://www.metro.ed.jp/kitazono-h/
+🚫 特待制度なし: 北園高等学校
+🔍 神津高等学校 - https://www.metro.ed.jp/kouzu-h/
+🚫 特待制度なし: 神津高等学校
+🔍 葛飾商業高等学校 - https://www.metro.ed.jp/katsushikasyogyo-h/
+🚫 特待制度なし: 葛飾商業高等学校
+🔍 江北高等学校 - https://www.metro.ed.jp/kohoku-h/
+🚫 特待制度なし: 江北高等学校
+🔍 国分寺高等学校 - https://www.metro.ed.jp/kokubunji-h/
+🚫 特待制度なし: 国分寺高等学校
+🔍 板橋有徳高等学校 - http://www.itabashiyutoku-h.metro.tokyo.jp/
+⚠️ 板橋有徳高等学校 例外: HTTPConnectionPool(host='www.itabashiyutoku-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x116273130>: Failed to resolve 'www.itabashiyutoku-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 江東商業高等学校 - https://www.metro.ed.jp/kotosyogyo-h/
+🚫 特待制度なし: 江東商業高等学校
+🔍 久留米西高等学校 - https://www.metro.ed.jp/kurumenishi-h/
+🚫 特待制度なし: 久留米西高等学校
+🔍 石神井高等学校 - https://www.metro.ed.jp/shakujii-h/
+🚫 特待制度なし: 石神井高等学校
+🔍 東京都立工芸高等学校 - https://www.metro.ed.jp/kogei-h/
+🚫 特待制度なし: 東京都立工芸高等学校
+🔍 東京都立狛江高等学校 - https://www.metro.ed.jp/komae-h/
+🚫 特待制度なし: 東京都立狛江高等学校
+🔍 葛飾野高等学校 - http://www.metro.ed.jp/katsushikano-h/
+🚫 特待制度なし: 葛飾野高等学校
+🔍 日本橋高等学校 - http://www.nihonbashi-h.metro.tokyo.jp/
+⚠️ 日本橋高等学校 例外: HTTPConnectionPool(host='www.nihonbashi-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1139be1a0>: Failed to resolve 'www.nihonbashi-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 田無工科高等学校 - https://www.metro.ed.jp/tanashikoka-h/
+🚫 特待制度なし: 田無工科高等学校
+🔍 豊多摩高等学校 - http://www.toyotama-h.metro.tokyo.jp/
+⚠️ 豊多摩高等学校 例外: HTTPConnectionPool(host='www.toyotama-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113b818d0>: Failed to resolve 'www.toyotama-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 西高等学校 - https://www.metro.ed.jp/nishi-h/
+🚫 特待制度なし: 西高等学校
+🔍 新宿高等学校 - https://www.metro.ed.jp/shinjuku-h/
+🚫 特待制度なし: 新宿高等学校
+🔍 豊島高等学校 - http://www.toshima-h.metro.tokyo.jp/
+⚠️ 豊島高等学校 例外: HTTPConnectionPool(host='www.toshima-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11634f490>: Failed to resolve 'www.toshima-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 神代高等学校 - http://www.jindai-h.metro.tokyo.jp/
+⚠️ 神代高等学校 例外: HTTPConnectionPool(host='www.jindai-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11634f970>: Failed to resolve 'www.jindai-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 新島高等学校 - https://www.metro.ed.jp/niijima-h/
+🚫 特待制度なし: 新島高等学校
+🔍 多摩工科高等学校 - https://www.metro.ed.jp/tamakoka-h/
+🚫 特待制度なし: 多摩工科高等学校
+🔍 高島高等学校 - http://www.takashima-h.metro.tokyo.jp/
+⚠️ 高島高等学校 例外: HTTPConnectionPool(host='www.takashima-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11360e860>: Failed to resolve 'www.takashima-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 練馬工科高等学校 - https://www.metro.ed.jp/nerimakoka-h/
+🚫 特待制度なし: 練馬工科高等学校
+🔍 東京都立第三商業高等学校 - https://www.metro.ed.jp/daisansyogyo-h/
+🚫 特待制度なし: 東京都立第三商業高等学校
+🔍 竹台高等学校 - https://www.metro.ed.jp/takenodai-h/
+🚫 特待制度なし: 竹台高等学校
+🔍 竹早高等学校 - http://www.takehaya-h.metro.tokyo.jp
+⚠️ 竹早高等学校 例外: HTTPConnectionPool(host='www.takehaya-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x115501270>: Failed to resolve 'www.takehaya-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 杉並高等学校 - https://www.metro.ed.jp/suginami-h/
+🚫 特待制度なし: 杉並高等学校
+🔍 昭和高等学校 - http://www.showa-h.metro.tokyo.jp/
+⚠️ 昭和高等学校 例外: HTTPConnectionPool(host='www.showa-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11373d360>: Failed to resolve 'www.showa-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 中野工科高等学校 - https://www.metro.ed.jp/nakanokoka-h/
+🚫 特待制度なし: 中野工科高等学校
+🔍 永山高等学校 - https://www.metro.ed.jp/nagayama-h/
+🚫 特待制度なし: 永山高等学校
+🔍 第一商業高等学校 - https://www.metro.ed.jp/daiichishogyo-h/
+🚫 特待制度なし: 第一商業高等学校
+🔍 田園調布高等学校 - https://www.metro.ed.jp/den-enchofu-h/
+🚫 特待制度なし: 田園調布高等学校
+🔍 杉並工科高等学校 - https://www.metro.ed.jp/suginamikoka-h/
+🚫 特待制度なし: 杉並工科高等学校
+🔍 調布北高等学校 - https://www.metro.ed.jp/chofukita-h/
+🚫 特待制度なし: 調布北高等学校
+🔍 多摩高等学校 - https://www.metro.ed.jp/tama-h/
+🚫 特待制度なし: 多摩高等学校
+🔍 第四商業高等学校 - http://www.daiyonshogyo-h.metro.tokyo.jp/
+⚠️ 第四商業高等学校 例外: HTTPConnectionPool(host='www.daiyonshogyo-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1116f08b0>: Failed to resolve 'www.daiyonshogyo-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 千歳丘高等学校 - http://www.chitosegaoka-h.metro.tokyo.jp/site/zen/
+⚠️ 千歳丘高等学校 例外: HTTPConnectionPool(host='www.chitosegaoka-h.metro.tokyo.jp', port=80): Max retries exceeded with url: /site/zen/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x115503460>: Failed to resolve 'www.chitosegaoka-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 立川高等学校 - https://www.metro.ed.jp/tachikawa-h/
+🚫 特待制度なし: 立川高等学校
+🔍 練馬高等学校 - http://www.nerima-h.metro.tokyo.jp/
+⚠️ 練馬高等学校 例外: HTTPConnectionPool(host='www.nerima-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1135fcd30>: Failed to resolve 'www.nerima-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 芦花高等学校 - https://www.metro.ed.jp/roka-h/
+🚫 特待制度なし: 芦花高等学校
+🔍 戸山高等学校 - http://www.toyama-h.metro.tokyo.jp/
+⚠️ 戸山高等学校 例外: HTTPConnectionPool(host='www.toyama-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x116100700>: Failed to resolve 'www.toyama-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 東京都立総合工科高等学校 - https://www.metro.ed.jp/sogokoka-h/
+🚫 特待制度なし: 東京都立総合工科高等学校
+🔍 文京高等学校 - https://www.metro.ed.jp/bunkyo-h/
+🚫 特待制度なし: 文京高等学校
+🔍 一橋高等学校（定時制） - https://www.metro.ed.jp/hitotsubashi-he/
+🚫 特待制度なし: 一橋高等学校（定時制）
+🔍 府中高等学校 - https://www.metro.ed.jp/fuchu-h/
+🚫 特待制度なし: 府中高等学校
+🔍 福生高等学校 - https://www.metro.ed.jp/fussa-h/
+🚫 特待制度なし: 福生高等学校
+🔍 農芸高等学校 - https://www.metro.ed.jp/nogei-h/
+🚫 特待制度なし: 農芸高等学校
+🔍 富士森高等学校 - https://www.metro.ed.jp/fujimori-h/
+🚫 特待制度なし: 富士森高等学校
+🔍 農産高等学校 - https://www.metro.ed.jp/nosan-h/
+🚫 特待制度なし: 農産高等学校
+🔍 府中西高等学校 - http://www.fuchunishi-h.metro.tokyo.jp/
+⚠️ 府中西高等学校 例外: HTTPConnectionPool(host='www.fuchunishi-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1151e3040>: Failed to resolve 'www.fuchunishi-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 日比谷高等学校 - https://hibiya-h.metro.ed.jp/
+⚠️ 日比谷高等学校 例外: HTTPSConnectionPool(host='hibiya-h.metro.ed.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1136727d0>: Failed to resolve 'hibiya-h.metro.ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 東高等学校 - http://www.higashi-h.metro.tokyo.jp/
+⚠️ 東高等学校 例外: HTTPConnectionPool(host='www.higashi-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1136724a0>: Failed to resolve 'www.higashi-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 本所高等学校 - https://www.metro.ed.jp/honjo-h/
+🚫 特待制度なし: 本所高等学校
+🔍 八王子東高等学校 - https://www.metro.ed.jp/hachiojihigashi-h/
+🚫 特待制度なし: 八王子東高等学校
+🔍 東村山高等学校 - http://www.higashimurayama-h.metro.tokyo.jp/
+⚠️ 東村山高等学校 例外: HTTPConnectionPool(host='www.higashimurayama-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1160f3d30>: Failed to resolve 'www.higashimurayama-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 東大和高等学校 - https://www.metro.ed.jp/higashiyamato-h/
+🚫 特待制度なし: 東大和高等学校
+🔍 青梅総合高等学校 - https://www.metro.ed.jp/omesogo-h/
+🚫 特待制度なし: 青梅総合高等学校
+🔍 都立農業高等学校 - http://www.nogyo-h.metro.tokyo.jp/
+⚠️ 都立農業高等学校 例外: HTTPConnectionPool(host='www.nogyo-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113481f00>: Failed to resolve 'www.nogyo-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 府中工科高等学校 - https://www.metro.ed.jp/fuchukoka-h/
+🚫 特待制度なし: 府中工科高等学校
+🔍 府中東高等学校 - https://www.metro.ed.jp/fuchuhigashi-h/
+🚫 特待制度なし: 府中東高等学校
+🔍 八王子桑志高等学校 - https://hachioji-soushi-h.metro.ed.jp/site/zen/
+🚫 特待制度なし: 八王子桑志高等学校
+🔍 富士高等学校 - https://www.metro.ed.jp/fuji-s/
+🚫 特待制度なし: 富士高等学校
+🔍 野津田高等学校 - https://www.metro.ed.jp/nozuta-h/
+🚫 特待制度なし: 野津田高等学校
+🔍 深沢高等学校 - http://www.fukasawa-h.metro.tokyo.jp/
+⚠️ 深沢高等学校 例外: HTTPConnectionPool(host='www.fukasawa-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x116101c90>: Failed to resolve 'www.fukasawa-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 日野高等学校 - https://www.metro.ed.jp/hino-h/
+🚫 特待制度なし: 日野高等学校
+🔍 八丈高等学校 - https://www.metro.ed.jp/hachijo-h/
+🚫 特待制度なし: 八丈高等学校
+🔍 深川高等学校 - https://www.metro.ed.jp/fukagawa-h/
+🚫 特待制度なし: 深川高等学校
+🔍 光丘高等学校 - https://www.metro.ed.jp/hikarigaoka-h/
+🚫 特待制度なし: 光丘高等学校
+🔍 保谷高等学校 - https://www.metro.ed.jp/hoya-h/
+🚫 特待制度なし: 保谷高等学校
+🔍 広尾高等学校 - http://hiroo-h.metro.ed.jp/
+🚫 特待制度なし: 広尾高等学校
+🔍 淵江高等学校 - https://www.metro.ed.jp/fuchie-h/
+🚫 特待制度なし: 淵江高等学校
+🔍 白鴎高等学校 - https://www.metro.ed.jp/hakuo-h/
+🚫 特待制度なし: 白鴎高等学校
+🔍 成瀬高等学校 - http://www.naruse-h.metro.tokyo.jp/
+⚠️ 成瀬高等学校 例外: HTTPConnectionPool(host='www.naruse-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1138b7190>: Failed to resolve 'www.naruse-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 目黒高等学校 - http://www.meguro-h.metro.tokyo.jp/
+⚠️ 目黒高等学校 例外: HTTPConnectionPool(host='www.meguro-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113dd1600>: Failed to resolve 'www.meguro-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 羽村高等学校 - http://www.hamura-h.metro.tokyo.jp/
+⚠️ 羽村高等学校 例外: HTTPConnectionPool(host='www.hamura-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x116018c10>: Failed to resolve 'www.hamura-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 八王子北高等学校 - https://www.metro.ed.jp/hachiojikita-h/
+🚫 特待制度なし: 八王子北高等学校
+🔍 町田高等学校 - http://www.machida-h.metro.tokyo.jp/
+⚠️ 町田高等学校 例外: HTTPConnectionPool(host='www.machida-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1115546d0>: Failed to resolve 'www.machida-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 小平西高等学校 - http://www.metro.ed.jp/kodairanishi-h/
+🚫 特待制度なし: 小平西高等学校
+🔍 町田工科高等学校 - https://www.metro.ed.jp/machidakoka-h/
+🚫 特待制度なし: 町田工科高等学校
+🔍 城東高等学校 - https://www.metro.ed.jp/joto-h/
+🚫 特待制度なし: 城東高等学校
+🔍 八潮高等学校 - http://www.yashio-h.metro.tokyo.jp/
+⚠️ 八潮高等学校 例外: HTTPConnectionPool(host='www.yashio-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113baf430>: Failed to resolve 'www.yashio-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 東京都立橘高等学校 - https://www.metro.ed.jp/tachibana-h/
+🚫 特待制度なし: 東京都立橘高等学校
+🔍 東京都立東久留米総合高等学校 - http://www.higashikurume-sogo-h.metro.tokyo.jp
+⚠️ 東京都立東久留米総合高等学校 例外: HTTPConnectionPool(host='www.higashikurume-sogo-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113361b10>: Failed to resolve 'www.higashikurume-sogo-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 三宅高等学校 - https://www.metro.ed.jp/miyake-h/
+🚫 特待制度なし: 三宅高等学校
+🔍 武蔵高等学校 - https://www.metro.ed.jp/musashi-h/
+🚫 特待制度なし: 武蔵高等学校
+🔍 武蔵丘高等学校 - https://www.metro.ed.jp/musashigaoka-h/
+🚫 特待制度なし: 武蔵丘高等学校
+🔍 松原高等学校 - https://www.metro.ed.jp/matsubara-h/
+🚫 特待制度なし: 松原高等学校
+🔍 葛飾総合高等学校 - https://www.metro.ed.jp/katsushikasogo-h/
+🚫 特待制度なし: 葛飾総合高等学校
+🔍 東京都立秋留台高等学校 - https://www.metro.ed.jp/akirudai-h/
+🚫 特待制度なし: 東京都立秋留台高等学校
+🔍 蒲田高等学校 - https://www.metro.ed.jp/kamata-h/
+🚫 特待制度なし: 蒲田高等学校
+🔍 南葛飾高等学校 - http://www.minamikatsushika-h.metro.tokyo.jp
+⚠️ 南葛飾高等学校 例外: HTTPConnectionPool(host='www.minamikatsushika-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113360730>: Failed to resolve 'www.minamikatsushika-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 篠崎高等学校 - http://www.shinozaki-h.metro.tokyo.jp/
+⚠️ 篠崎高等学校 例外: HTTPConnectionPool(host='www.shinozaki-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113363d60>: Failed to resolve 'www.shinozaki-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 瑞穂農芸高等学校 - http://www.mizuho-h.metro.tokyo.jp/
+⚠️ 瑞穂農芸高等学校 例外: HTTPConnectionPool(host='www.mizuho-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1116f0970>: Failed to resolve 'www.mizuho-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 青井高等学校 - https://www.metro.ed.jp/aoi-h/
+🚫 特待制度なし: 青井高等学校
+🔍 紅葉川高等学校 - https://www.metro.ed.jp/momijigawa-h/
+🚫 特待制度なし: 紅葉川高等学校
+🔍 向丘高等学校 - http://www.metro.ed.jp/mukogaoka-h/
+🚫 特待制度なし: 向丘高等学校
+🔍 両国高等学校 - https://www.metro.ed.jp/ryogoku-h/
+🚫 特待制度なし: 両国高等学校
+🔍 東京都立武蔵村山高等学校 - http://www.musashimurayama-h.metro.tokyo.jp/
+⚠️ 東京都立武蔵村山高等学校 例外: HTTPConnectionPool(host='www.musashimurayama-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113dd0100>: Failed to resolve 'www.musashimurayama-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 拝島高等学校 - https://www.metro.ed.jp/haijima-h/
+🚫 特待制度なし: 拝島高等学校
+🔍 雪谷高等学校 - https://www.metro.ed.jp/yukigaya-h/
+🚫 特待制度なし: 雪谷高等学校
+🔍 調布南高等学校 - https://www.metro.ed.jp/chofuminami-h/
+🚫 特待制度なし: 調布南高等学校
+🔍 三田高等学校 - https://www.metro.ed.jp/mita-h/
+🚫 特待制度なし: 三田高等学校
+🔍 雙葉高等学校 - https://www.futabagakuen-jh.ed.jp/jsh/
+🚫 特待制度なし: 雙葉高等学校
+🔍 飛鳥高等学校 - http://www.asuka-h.metro.tokyo.jp/
+⚠️ 飛鳥高等学校 例外: HTTPConnectionPool(host='www.asuka-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1138b6500>: Failed to resolve 'www.asuka-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 女子学院高等学校 - http://www.joshigakuin.ed.jp/
+🚫 特待制度なし: 女子学院高等学校
+🔍 東京家政学院高等学校 - https://www.kasei-gakuin.ed.jp/
+🚫 特待制度なし: 東京家政学院高等学校
+🔍 砂川高等学校（定時制） - https://www.metro.ed.jp/sunagawa-he/
+🚫 特待制度なし: 砂川高等学校（定時制）
+🔍 暁星高等学校 - https://www.gyosei-h.ed.jp/
+🚫 特待制度なし: 暁星高等学校
+🔍 武蔵野北高等学校 - https://musashinokita-h.metro.ed.jp/
+🚫 特待制度なし: 武蔵野北高等学校
+🔍 千代田高等学校 - https://chiyoda.ed.jp/
+🚫 特待制度なし: 千代田高等学校
+🔍 小金井北高等学校 - http://www.koganeikita-h.metro.tokyo.jp/
+⚠️ 小金井北高等学校 例外: HTTPConnectionPool(host='www.koganeikita-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113480df0>: Failed to resolve 'www.koganeikita-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 東大和南高等学校 - https://www.metro.ed.jp/higashiyamatominami-h/
+🚫 特待制度なし: 東大和南高等学校
+🔍 明治大学付属明治高等学校 - https://www.meiji.ac.jp/ko_chu/
+🚫 特待制度なし: 明治大学付属明治高等学校
+🔍 小平南高等学校 - https://www.metro.ed.jp/kodairaminami-h/
+🚫 特待制度なし: 小平南高等学校
+🔍 東村山西高等学校 - http://www.higashimurayamanishi-h.metro.tokyo.jp/
+⚠️ 東村山西高等学校 例外: HTTPConnectionPool(host='www.higashimurayamanishi-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11350fa60>: Failed to resolve 'www.higashimurayamanishi-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 南平高等学校 - https://www.metro.ed.jp/minamidaira-h/
+🚫 特待制度なし: 南平高等学校
+🔍 小川高等学校 - http://www.ogawa-h.metro.tokyo.jp/
+⚠️ 小川高等学校 例外: HTTPConnectionPool(host='www.ogawa-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1134826e0>: Failed to resolve 'www.ogawa-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 足立新田高等学校 - https://www.metro.ed.jp/adachishinden-h/
+🚫 特待制度なし: 足立新田高等学校
+🔍 白百合学園高等学校 - https://www.shirayuri.ed.jp/top.html
+🚫 特待制度なし: 白百合学園高等学校
+🔍 正則学園高等学校 - http://www.seisokugakuen.ac.jp
+🚫 特待制度なし: 正則学園高等学校
+🔍 山崎高等学校 - http://www.yamasaki-h.metro.tokyo.jp/
+⚠️ 山崎高等学校 例外: HTTPConnectionPool(host='www.yamasaki-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1135fc7c0>: Failed to resolve 'www.yamasaki-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 共立女子中学高等学校 - https://www.kyoritsu-wu.ac.jp/chukou/
+🚫 特待制度なし: 共立女子中学高等学校
+🔍 田柄高等学校 - https://www.metro.ed.jp/tagara-h/
+🚫 特待制度なし: 田柄高等学校
+🔍 神田女学園高等学校 - https://www.kandajogakuen.ed.jp/
+✅ 特待制度あり: 神田女学園高等学校
+🔍 日野台高等学校 - https://www.metro.ed.jp/hinodai-h/
+🚫 特待制度なし: 日野台高等学校
+🔍 田無高等学校 - https://www.metro.ed.jp/tanashi-h/
+🚫 特待制度なし: 田無高等学校
+🔍 大妻高等学校 - https://www.otsuma.ed.jp/
+🚫 特待制度なし: 大妻高等学校
+🔍 晴海総合高等学校 - https://www.metro.ed.jp/harumisogo-h/
+🚫 特待制度なし: 晴海総合高等学校
+🔍 三輪田学園高等学校 - http://www.miwada.ac.jp/
+🚫 特待制度なし: 三輪田学園高等学校
+🔍 錦城学園高等学校 - http://www.kinjogakuen-h.ed.jp/
+🚫 特待制度なし: 錦城学園高等学校
+🔍 松が谷高等学校 - http://www.matsugaya-h.metro.tokyo.jp/
+⚠️ 松が谷高等学校 例外: HTTPConnectionPool(host='www.matsugaya-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1136e3190>: Failed to resolve 'www.matsugaya-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 跡見学園高等学校 - http://www.atomi.ac.jp/jh/
+🚫 特待制度なし: 跡見学園高等学校
+🔍 山脇学園高等学校 - https://www.yamawaki.ed.jp/
+🚫 特待制度なし: 山脇学園高等学校
+🔍 渋谷教育学園渋谷高等学校 - https://www.shibushibu.jp
+🚫 特待制度なし: 渋谷教育学園渋谷高等学校
+🔍 早稲田大学高等学院 - https://www.waseda.jp/school/shs/
+🚫 特待制度なし: 早稲田大学高等学院
+🔍 麻布高等学校 - https://www.azabu-jh.ed.jp/about/schoolsong/
+🚫 特待制度なし: 麻布高等学校
+🔍 国学院高等学校 - https://www.kokugakuin.ed.jp
+🚫 特待制度なし: 国学院高等学校
+🔍 慶應義塾女子高等学校 - http://www.gshs.keio.ac.jp/
+🚫 特待制度なし: 慶應義塾女子高等学校
+🔍 学習院高等科 - https://www.gakushuin.ac.jp/bsh/
+🚫 特待制度なし: 学習院高等科
+🔍 学習院女子高等科 - https://www.gakushuin.ac.jp/girl/
+🚫 特待制度なし: 学習院女子高等科
+🔍 芝国際高等学校 - https://www.shiba-kokusai.ed.jp/
+🚫 特待制度なし: 芝国際高等学校
+🔍 郁文館グローバル高等学校 - http://www.ikubunkan.ed.jp/
+🚫 特待制度なし: 郁文館グローバル高等学校
+🔍 三田国際学園高等学校 - https://www.mita-is.ed.jp
+⚠️ 三田国際学園高等学校 例外: HTTPSConnectionPool(host='www.mita-is.ed.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:997)')))
+🔍 東洋英和女学院高等部 - https://www.toyoeiwa.ac.jp
+🚫 特待制度なし: 東洋英和女学院高等部
+🔍 普連土学園高等学校 - http://www.friends.ac.jp/
+🚫 特待制度なし: 普連土学園高等学校
+🔍 芝高等学校 - https://www.shiba.ac.jp/
+🚫 特待制度なし: 芝高等学校
+🔍 開智日本橋学園高等学校 - http://www.kng.ed.jp
+✅ 特待制度あり: 開智日本橋学園高等学校
+🔍 東京女学館高等学校 - https://www.tjk.jp/mh/
+🚫 特待制度なし: 東京女学館高等学校
+🔍 晃華学園高等学校 - https://jhs.kokagakuen.ac.jp/
+🚫 特待制度なし: 晃華学園高等学校
+🔍 高輪高等学校 - https://www.takanawa.ed.jp/
+🚫 特待制度なし: 高輪高等学校
+🔍 青山学院高等部 - https://www.agh.aoyama.ed.jp/
+🚫 特待制度なし: 青山学院高等部
+🔍 広尾学園中学校高等学校 - https://www.hiroogakuen.ed.jp
+🚫 特待制度なし: 広尾学園中学校高等学校
+🔍 早稲田大学系属早稲田実業学校高等部 - https://www.wasedajg.ed.jp/
+🚫 特待制度なし: 早稲田大学系属早稲田実業学校高等部
+🔍 海城高等学校 - https://www.kaijo.ed.jp/
+🚫 特待制度なし: 海城高等学校
+🔍 東海大学付属高輪台高等学校 - https://www.takanawadai.tokai.ed.jp/
+⚠️ 東海大学付属高輪台高等学校 例外: HTTPSConnectionPool(host='www.takanawadai.tokai.ed.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x11620af20>: Failed to resolve 'www.takanawadai.tokai.ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 早稲田高等学校 - https://www.waseda-h.ed.jp/
+🚫 特待制度なし: 早稲田高等学校
+🔍 明治学院高等学校 - http://www.meigaku.ed.jp/
+🚫 特待制度なし: 明治学院高等学校
+🔍 郁文館高等学校 - https://www.ikubunkan.ed.jp/hs/index.html
+🚫 特待制度なし: 郁文館高等学校
+🔍 成城高等学校 - http://www.seijogakko.ed.jp/
+🚫 特待制度なし: 成城高等学校
+🔍 実践女子学園高等学校 - https://hs.jissen.ac.jp/index.html
+🚫 特待制度なし: 実践女子学園高等学校
+🔍 頌栄女子学院高等学校 - https://www.shoei.ed.jp/
+🚫 特待制度なし: 頌栄女子学院高等学校
+🔍 自由ヶ丘学園高等学校 - http://www.jiyugaoka.ed.jp
+✅ 特待制度あり: 自由ヶ丘学園高等学校
+🔍 成立学園高等学校 - http://www.seiritsu.ac.jp/
+🚫 特待制度なし: 成立学園高等学校
+🔍 香蘭女学校高等科 - https://www.koran.ed.jp/
+🚫 特待制度なし: 香蘭女学校高等科
+🔍 立正大学付属立正高等学校 - https://www.rissho-hs.ac.jp/
+🚫 特待制度なし: 立正大学付属立正高等学校
+🔍 東洋大学京北高等学校 - https://www.toyo.ac.jp/toyodaikeihoku/
+🚫 特待制度なし: 東洋大学京北高等学校
+🔍 関東第一高等学校 - https://www.kanto-ichiko.ac.jp/
+🚫 特待制度なし: 関東第一高等学校
+🔍 駒込高等学校 - http://www.komagome.ed.jp
+🚫 特待制度なし: 駒込高等学校
+🔍 朋優学院高等学校 - http://www.ho-yu.ed.jp
+🚫 特待制度なし: 朋優学院高等学校
+🔍 開成高等学校 - https://kaiseigakuen.jp/
+🚫 特待制度なし: 開成高等学校
+🔍 上野学園高等学校 - http://www.uenogakuen.ed.jp/
+🚫 特待制度なし: 上野学園高等学校
+🔍 八雲学園高等学校 - https://www.yakumo.ac.jp
+🚫 特待制度なし: 八雲学園高等学校
+🔍 日本大学豊山高等学校 - https://www.buzan.hs.nihon-u.ac.jp/
+🚫 特待制度なし: 日本大学豊山高等学校
+🔍 順天高等学校 - https://www.junten.ed.jp/
+🚫 特待制度なし: 順天高等学校
+🔍 女子聖学院高等学校 - http://www.joshiseigakuin.ed.jp/
+🚫 特待制度なし: 女子聖学院高等学校
+🔍 小石川淑徳学園高等学校 - https://ssc1892.ed.jp/
+⚠️ 小石川淑徳学園高等学校 例外: HTTPSConnectionPool(host='ssc1892.ed.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)')))
+🔍 桜蔭高等学校 - https://www.oin.ed.jp/
+🚫 特待制度なし: 桜蔭高等学校
+🔍 品川女子学院高等部 - https://www.shinagawajoshigakuin.jp/
+🚫 特待制度なし: 品川女子学院高等部
+🔍 青稜高等学校 - http://www.seiryo-js.ed.jp/
+🚫 特待制度なし: 青稜高等学校
+🔍 獨協高等学校 - https://www.dokkyo.ed.jp/
+⚠️ サブページエラー: HTTPSConnectionPool(host='www.dokkyo.ed.jp', port=443): Read timed out. (read timeout=10)
+🚫 特待制度なし: 獨協高等学校
+🔍 江戸川女子高等学校 - https://www.edojo.jp/
+🚫 特待制度なし: 江戸川女子高等学校
+🔍 東邦音楽大学附属東邦高等学校 - http://www.toho-music.ac.jp/highschool/
+🚫 特待制度なし: 東邦音楽大学附属東邦高等学校
+🔍 潤徳女子高等学校 - https://www.juntoku.ac.jp/
+🚫 特待制度なし: 潤徳女子高等学校
+🔍 武蔵野高等学校 - https://www.musashino.ac.jp/mjhs/
+🚫 特待制度なし: 武蔵野高等学校
+🔍 広尾学園小石川高等学校 - https://hiroo-koishikawa.ed.jp/
+🚫 特待制度なし: 広尾学園小石川高等学校
+🔍 足立学園高等学校 - https://www.adachigakuen-jh.ed.jp/
+🚫 特待制度なし: 足立学園高等学校
+🔍 サレジアン国際学園高等学校 - https://www.salesian.international.seibi.ac.jp
+✅ 特待制度あり: サレジアン国際学園高等学校
+🔍 目黒学院高等学校 - http://www.meguro.ac.jp/
+🚫 特待制度なし: 目黒学院高等学校
+🔍 日本大学第一高等学校 - https://www.nichidai-1.ed.jp/
+🚫 特待制度なし: 日本大学第一高等学校
+🔍 攻玉社高等学校 - https://kogyokusha.ed.jp/
+🚫 特待制度なし: 攻玉社高等学校
+🔍 東洋女子高等学校 - http://www.toyojoshi.ac.jp/
+🚫 特待制度なし: 東洋女子高等学校
+🔍 専修大学附属高等学校 - http://www.senshu-u-h.ed.jp/
+🚫 特待制度なし: 専修大学附属高等学校
+🔍 日本学園高等学校 - https://www.nihongakuen.ed.jp/
+🚫 特待制度なし: 日本学園高等学校
+🔍 宝仙学園高等学校・女子部 - https://www.hosen.ed.jp/ghs/
+🚫 特待制度なし: 宝仙学園高等学校・女子部
+🔍 文化学園大学杉並高等学校 - https://www.bunsugi.jp
+🚫 特待制度なし: 文化学園大学杉並高等学校
+🔍 田園調布学園高等部 - https://www.chofu.ed.jp/
+🚫 特待制度なし: 田園調布学園高等部
+🔍 東亜学園高等学校 - https://toagakuen.ac.jp/
+✅ 特待制度あり: 東亜学園高等学校
+🔍 鴎友学園女子高等学校 - https://www.ohyu.jp/
+🚫 特待制度なし: 鴎友学園女子高等学校
+🔍 佼成学園高等学校 - https://www.kosei.ac.jp/boys/
+✅ 特待制度あり: 佼成学園高等学校
+🔍 サレジアン国際学園世田谷高等学校 - https://salesian-setagaya.ed.jp/
+🚫 特待制度なし: サレジアン国際学園世田谷高等学校
+🔍 聖ドミニコ学園高等学校 - https://www.dominic.ed.jp/highschool/
+🚫 特待制度なし: 聖ドミニコ学園高等学校
+🔍 立教女学院高等学校 - https://hs.rikkyojogakuin.ac.jp/
+🚫 特待制度なし: 立教女学院高等学校
+🔍 昭和女子大学附属昭和高等学校 - https://jhs.swu.ac.jp/
+🚫 特待制度なし: 昭和女子大学附属昭和高等学校
+🔍 世田谷学園高等学校 - http://www.setagayagakuen.ac.jp/
+✅ 特待制度あり: 世田谷学園高等学校
+🔍 田園調布雙葉高等学校 - https://www.denenchofufutaba.ed.jp/
+🚫 特待制度なし: 田園調布雙葉高等学校
+🔍 恵泉女学園高等学校 - https://www.keisen.jp/
+🚫 特待制度なし: 恵泉女学園高等学校
+🔍 日本体育大学荏原高等学校 - http://www.nittai-ebara.jp/
+🚫 特待制度なし: 日本体育大学荏原高等学校
+🔍 堀越高等学校 - https://www.horikoshigakuen.ed.jp/
+🚫 特待制度なし: 堀越高等学校
+🔍 明治大学付属中野高等学校 - https://www.meinaka.jp/
+🚫 特待制度なし: 明治大学付属中野高等学校
+🔍 駒場東邦高等学校 - https://www.komabajh.toho-u.ac.jp/
+🚫 特待制度なし: 駒場東邦高等学校
+🔍 実践学園高等学校 - http://www.jissengakuen-h.ed.jp/
+🚫 特待制度なし: 実践学園高等学校
+🔍 国士舘高等学校 - http://hs.kokushikan.ed.jp/
+🚫 特待制度なし: 国士舘高等学校
+🔍 日本大学第三高等学校 - https://www.nichidai3.ed.jp/
+🚫 特待制度なし: 日本大学第三高等学校
+🔍 東京都市大学付属高等学校 - https://www.tcu-jsh.ed.jp/
+🚫 特待制度なし: 東京都市大学付属高等学校
+🔍 成城学園高等学校 - https://www.seijogakuen.ed.jp/chukou/
+🚫 特待制度なし: 成城学園高等学校
+🔍 和光高等学校 - https://wakos.wako.ed.jp/
+🚫 特待制度なし: 和光高等学校
+🔍 東京都市大学等々力高等学校 - http://www.tcu-todoroki.ed.jp
+🚫 特待制度なし: 東京都市大学等々力高等学校
+🔍 東京立正高等学校 - http://www.tokyorissho.ed.jp/
+🚫 特待制度なし: 東京立正高等学校
+🔍 日本工業大学駒場高等学校 - https://nit-komaba.ed.jp/
+🚫 特待制度なし: 日本工業大学駒場高等学校
+🔍 大妻中野高等学校 - https://www.otsumanakano.ac.jp/
+🚫 特待制度なし: 大妻中野高等学校
+🔍 駒澤大学高等学校 - http://www.komazawa.net/
+🚫 特待制度なし: 駒澤大学高等学校
+🔍 中央大学附属高等学校 - https://www.hs.chuo-u.ac.jp/
+🚫 特待制度なし: 中央大学附属高等学校
+🔍 武蔵高等学校中学校 - https://www.musashi.ed.jp/
+🚫 特待制度なし: 武蔵高等学校中学校
+🔍 明治学院東村山高等学校 - https://www.meijigakuin-higashi.ed.jp/
+🚫 特待制度なし: 明治学院東村山高等学校
+🔍 大成高等学校 - http://www.taisei.ed.jp
+🚫 特待制度なし: 大成高等学校
+🔍 城西大学附属城西高等学校 - https://josaigakuen.ac.jp/
+🚫 特待制度なし: 城西大学附属城西高等学校
+🔍 白梅学園高等学校 - https://highwww.shiraume.ac.jp/
+🚫 特待制度なし: 白梅学園高等学校
+🔍 昭和鉄道高等学校 - https://showa-tetsudo.ed.jp/
+🚫 特待制度なし: 昭和鉄道高等学校
+🔍 藤村女子高等学校 - https://fujimura.ac.jp/
+⚠️ 藤村女子高等学校 例外: HTTPSConnectionPool(host='fujimura.ac.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x113dd0fd0>: Failed to resolve 'fujimura.ac.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 聖パウロ学園高等学校 - http://www.st-paul.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 帝京高等学校 - https://www.teikyo.ed.jp/
+✅ 特待制度あり: 帝京高等学校
+🔍 東海大学菅生高等学校 - https://www.tokaisugao.ac.jp
+🚫 特待制度なし: 東海大学菅生高等学校
+🔍 日本大学豊山女子高等学校 - https://www.buzan-joshi.hs.nihon-u.ac.jp/senior/
+✅ 特待制度あり: 日本大学豊山女子高等学校
+🔍 東京女子学院高等学校 - https://www.tjg.ac.jp/
+✅ 特待制度あり: 東京女子学院高等学校
+🔍 淑徳巣鴨高等学校 - https://www.shukusu.ed.jp
+🚫 特待制度なし: 淑徳巣鴨高等学校
+🔍 十文字高等学校 - https://js.jumonji-u.ac.jp/
+🚫 特待制度なし: 十文字高等学校
+🔍 明法高等学校 - http://www.meiho.ed.jp/
+✅ 特待制度あり: 明法高等学校
+🔍 吉祥女子高等学校 - https://www.kichijo-joshi.jp
+🚫 特待制度なし: 吉祥女子高等学校
+🔍 豊島学院高等学校 - https://toshima-gakuin.ed.jp/
+🚫 特待制度なし: 豊島学院高等学校
+🔍 明星高等学校 - https://www.meisei.ac.jp/hs/
+✅ 特待制度あり: 明星高等学校
+🔍 東京音楽大学付属高等学校 - https://www.tcm-koko.ed.jp/
+🚫 特待制度なし: 東京音楽大学付属高等学校
+🔍 昭和第一学園高等学校 - https://www.sdg.ed.jp/
+🚫 特待制度なし: 昭和第一学園高等学校
+🔍 工学院大学附属高等学校 - https://www.js.kogakuin.ac.jp/
+🚫 特待制度なし: 工学院大学附属高等学校
+🔍 本郷高等学校 - https://www.hongo.ed.jp/
+🚫 特待制度なし: 本郷高等学校
+🔍 八王子実践高等学校 - http://www.hachioji-jissen.ac.jp/
+🚫 特待制度なし: 八王子実践高等学校
+🔍 富士見高等学校 - https://www.fujimi.ac.jp/
+🚫 特待制度なし: 富士見高等学校
+🔍 国際基督教大学高等学校 - https://icu-h.ed.jp/
+🚫 特待制度なし: 国際基督教大学高等学校
+🔍 東京純心女子高等学校 - http://www.t-junshin.ac.jp/jhs/
+✅ 特待制度あり: 東京純心女子高等学校
+🔍 創価高等学校 - https://tokyo-senior.soka.ed.jp/
+🚫 特待制度なし: 創価高等学校
+🔍 豊島岡女子学園高等学校 - https://www.toshimagaoka.ed.jp/
+🚫 特待制度なし: 豊島岡女子学園高等学校
+🔍 立川高等学校（定時制） - https://www.metro.ed.jp/tachikawa-he/
+🚫 特待制度なし: 立川高等学校（定時制）
+🔍 大山高等学校（定時制） - https://www.metro.ed.jp/ohyama-he/
+🚫 特待制度なし: 大山高等学校（定時制）
+🔍 神代高等学校（定時制） - https://www.metro.ed.jp/jindai-he/
+🚫 特待制度なし: 神代高等学校（定時制）
+🔍 第三商業高等学校（定時制） - https://www.metro.ed.jp/daisansyogyo-he/
+🚫 特待制度なし: 第三商業高等学校（定時制）
+🔍 穎明館高等学校 - https://www.emk.ac.jp/
+🚫 特待制度なし: 穎明館高等学校
+🔍 小金井工科高等学校（定時制） - https://www.metro.ed.jp/koganeikoka-he/
+🚫 特待制度なし: 小金井工科高等学校（定時制）
+🔍 大妻多摩高等学校 - https://www.otsuma-tama.ed.jp/
+🚫 特待制度なし: 大妻多摩高等学校
+🔍 第五商業高等学校（定時制） - https://www.metro.ed.jp/daigosyogyo-he/
+🚫 特待制度なし: 第五商業高等学校（定時制）
+🔍 葛飾商業高等学校（定時制） - https://www.metro.ed.jp/katsushikasyogyo-he/
+🚫 特待制度なし: 葛飾商業高等学校（定時制）
+🔍 園芸高等学校（定時制） - https://www.metro.ed.jp/engei-he/
+🚫 特待制度なし: 園芸高等学校（定時制）
+🔍 中野工科高等学校（定時制） - https://www.metro.ed.jp/nakanokoka-he/
+🚫 特待制度なし: 中野工科高等学校（定時制）
+🔍 五日市高等学校（定時制） - https://itsukaichi-h.metro.ed.jp/tei/index.html
+🚫 特待制度なし: 五日市高等学校（定時制）
+🔍 大崎高等学校（定時制） - https://www.metro.ed.jp/osaki-he/
+🚫 特待制度なし: 大崎高等学校（定時制）
+🔍 大島高等学校（定時制） - https://www.metro.ed.jp/oshima-he/
+✅ 特待制度あり: 大島高等学校（定時制）
+🔍 多摩大学附属聖ヶ丘高等学校 - https://www.hijirigaoka.ed.jp/
+🚫 特待制度なし: 多摩大学附属聖ヶ丘高等学校
+🔍 明治大学付属八王子高等学校 - https://www.mnh.ed.jp/
+🚫 特待制度なし: 明治大学付属八王子高等学校
+🔍 墨田工科高等学校（定時制） - https://www.metro.ed.jp/sumidakoka-he/
+🚫 特待制度なし: 墨田工科高等学校（定時制）
+🔍 東京都立総合工科高等学校（定時制） - https://www.metro.ed.jp/sogokoka-he/
+🚫 特待制度なし: 東京都立総合工科高等学校（定時制）
+🔍 荒川工科高等学校（定時制） - https://www.metro.ed.jp/arakawakoka-he/
+🚫 特待制度なし: 荒川工科高等学校（定時制）
+🔍 東京都立工芸高等学校（定時制） - https://www.metro.ed.jp/kogei-he/
+🚫 特待制度なし: 東京都立工芸高等学校（定時制）
+🔍 大原学園美空高等学校（通信制） - http://ohs.o-hara.ac.jp
+🚫 特待制度なし: 大原学園美空高等学校（通信制）
+🔍 小山台高等学校（定時制） - https://koyamadai-h.metro.ed.jp/site/tei/
+🚫 特待制度なし: 小山台高等学校（定時制）
+🔍 葛西南高等学校（定時制） - https://www.metro.ed.jp/kasaiminami-he/
+🚫 特待制度なし: 葛西南高等学校（定時制）
+🔍 江戸川高等学校（定時制） - https://www.metro.ed.jp/edogawa-he/
+🚫 特待制度なし: 江戸川高等学校（定時制）
+🔍 蔵前工科高等学校（定時制） - https://www.metro.ed.jp/kuramaekoka-he/
+🚫 特待制度なし: 蔵前工科高等学校（定時制）
+🔍 大森高等学校（定時制） - https://www.metro.ed.jp/omori-he/
+🚫 特待制度なし: 大森高等学校（定時制）
+🔍 豊島高等学校（定時制） - https://www.metro.ed.jp/toshima-he/
+🚫 特待制度なし: 豊島高等学校（定時制）
+🔍 北豊島工科高等学校（定時制） - https://www.metro.ed.jp/kitatoshimakoka-he/
+🚫 特待制度なし: 北豊島工科高等学校（定時制）
+🔍 桜町高等学校（定時制） - https://www.metro.ed.jp/sakuramachi-he/
+🚫 特待制度なし: 桜町高等学校（定時制）
+🔍 足立高等学校（定時制） - https://www.metro.ed.jp/adachi-he/
+🚫 特待制度なし: 足立高等学校（定時制）
+🔍 総合芸術高等学校 - https://www.metro.ed.jp/sogo-geijutsu-h/
+🚫 特待制度なし: 総合芸術高等学校
+🔍 国士舘高等学校（定時制） - http://teiji.kokushikan.ed.jp
+🚫 特待制度なし: 国士舘高等学校（定時制）
+🔍 八洲学園高等学校　東京・新宿キャンパス（通信制） - http://www.yashima.ac.jp/hs/
+🚫 特待制度なし: 八洲学園高等学校　東京・新宿キャンパス（通信制）
+🔍 世田谷泉高等学校（定時制） - https://www.metro.ed.jp/setagayaizumi-he/
+🚫 特待制度なし: 世田谷泉高等学校（定時制）
+🔍 農芸高等学校（定時制） - https://www.metro.ed.jp/nogei-he/
+🚫 特待制度なし: 農芸高等学校（定時制）
+🔍 東海大学付属望星高等学校　東京校（通信制） - http://www.bosei.tokai.ed.jp/
+⚠️ 東海大学付属望星高等学校　東京校（通信制） 例外: HTTPConnectionPool(host='www.bosei.tokai.ed.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11366a7a0>: Failed to resolve 'www.bosei.tokai.ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 農産高等学校（定時制） - https://www.metro.ed.jp/nosan-he/
+🚫 特待制度なし: 農産高等学校（定時制）
+🔍 桐ヶ丘高等学校（定時制） - https://www.metro.ed.jp/kirigaoka-he/
+🚫 特待制度なし: 桐ヶ丘高等学校（定時制）
+🔍 科学技術学園高等学校（定時制） - http://www.kagiko.ed.jp/
+❌ メインページ取得失敗: 403
+🔍 瑞穂農芸高等学校（定時制） - https://www.metro.ed.jp/mizuhonogei-he/
+🚫 特待制度なし: 瑞穂農芸高等学校（定時制）
+🔍 三鷹中等教育学校 - http://www.mitakachuto-e.metro.tokyo.jp
+⚠️ 三鷹中等教育学校 例外: HTTPConnectionPool(host='www.mitakachuto-e.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1151e2ce0>: Failed to resolve 'www.mitakachuto-e.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 町田高等学校（定時制） - https://machida-h.metro.ed.jp/tei/teitop.htm
+⚠️ 町田高等学校（定時制） 例外: HTTPSConnectionPool(host='machida-h.metro.ed.jp', port=443): Max retries exceeded with url: /tei/teitop.htm (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1151e1210>: Failed to resolve 'machida-h.metro.ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 南葛飾高等学校（定時制） - https://www.metro.ed.jp/minamikatsushika-he/
+🚫 特待制度なし: 南葛飾高等学校（定時制）
+🔍 飛鳥高等学校（定時制） - https://www.metro.ed.jp/asuka-he/
+🚫 特待制度なし: 飛鳥高等学校（定時制）
+🔍 青梅総合高等学校（定時制） - https://www.metro.ed.jp/ome-sogo-he/
+🚫 特待制度なし: 青梅総合高等学校（定時制）
+🔍 都立農業高等学校（定時制） - https://www.metro.ed.jp/nogyo-he/
+🚫 特待制度なし: 都立農業高等学校（定時制）
+🔍 東京都立科学技術高等学校 - https://www.metro.ed.jp/kagakugijyutu-h/
+🚫 特待制度なし: 東京都立科学技術高等学校
+🔍 つばさ総合高等学校 - https://www.metro.ed.jp/tsubasasogo-h/
+🚫 特待制度なし: つばさ総合高等学校
+🔍 新宿山吹高等学校（通信制） - https://www.metro.ed.jp/shinjukuyamabuki-h/
+🚫 特待制度なし: 新宿山吹高等学校（通信制）
+🔍 八丈高等学校（定時制） - https://www.metro.ed.jp/hachijo-he/
+🚫 特待制度なし: 八丈高等学校（定時制）
+🔍 北豊島高等学校（通信制） - http://www.kitatoshima.ac.jp/
+🚫 特待制度なし: 北豊島高等学校（通信制）
+🔍 新宿山吹高等学校（定時制） - https://www.metro.ed.jp/shinjukuyamabuki-h/
+🚫 特待制度なし: 新宿山吹高等学校（定時制）
+🔍 松原高等学校（定時制） - https://www.metro.ed.jp/matsubara-he/
+🚫 特待制度なし: 松原高等学校（定時制）
+🔍 科学技術学園高等学校（通信制） - http://www.kagiko.ed.jp
+❌ メインページ取得失敗: 403
+🔍 駿台学園高等学校（定時制） - http://www.sundaigakuen.ac.jp/
+🚫 特待制度なし: 駿台学園高等学校（定時制）
+🔍 多摩科学技術高等学校 - https://www.metro.ed.jp/tamakagakugijutsu-h/
+🚫 特待制度なし: 多摩科学技術高等学校
+🔍 クラーク記念国際高等学校　東京キャンパス（通信制） - http://www.clark.ed.jp/
+🚫 特待制度なし: クラーク記念国際高等学校　東京キャンパス（通信制）
+🔍 ＮＨＫ学園高等学校（通信制） - http://www.n-gaku.jp
+🚫 特待制度なし: ＮＨＫ学園高等学校（通信制）
+🔍 福生高等学校（定時制） - https://www.metro.ed.jp/fussa-he/
+🚫 特待制度なし: 福生高等学校（定時制）
+🔍 明聖高等学校 中野キャンパス（通信制） - https://www.meisei-hs.ac.jp/nakano_hs/
+✅ 特待制度あり: 明聖高等学校 中野キャンパス（通信制）
+🔍 目黒日本大学高等学校（通信制） - https://www.meguro-nichidai.ed.jp/tsushin/
+🚫 特待制度なし: 目黒日本大学高等学校（通信制）
+🔍 東京学芸大学附属国際中等教育学校 - http://www.iss.oizumi.u-gakugei.ac.jp/
+🚫 特待制度なし: 東京学芸大学附属国際中等教育学校
+🔍 東京都立王子総合高等学校 - https://www.metro.ed.jp/oujisogo-h/
+🚫 特待制度なし: 東京都立王子総合高等学校
+🔍 千早高等学校 - https://www.metro.ed.jp/chihaya-h/
+🚫 特待制度なし: 千早高等学校
+🔍 九段中等教育学校 - http://www.kudan.ed.jp/
+🚫 特待制度なし: 九段中等教育学校
+🔍 六郷工科高等学校 - https://rokugokoka-h.metro.ed.jp/
+🚫 特待制度なし: 六郷工科高等学校
+🔍 代々木高等学校　東京本部（通信制） - https://yoyogi.net/
+🚫 特待制度なし: 代々木高等学校　東京本部（通信制）
+🔍 順天堂大学系属理数インター高等学校 - https://www.hosen.ed.jp/shs/
+✅ 特待制度あり: 順天堂大学系属理数インター高等学校
+🔍 一橋高等学校（通信制） - https://www.metro.ed.jp/hitotsubashi-hc/
+🚫 特待制度なし: 一橋高等学校（通信制）
+🔍 稔ヶ丘高等学校（定時制） - https://www.metro.ed.jp/minorigaoka-he/
+🚫 特待制度なし: 稔ヶ丘高等学校（定時制）
+🔍 上水高等学校 - https://www.metro.ed.jp/josui-h/
+🚫 特待制度なし: 上水高等学校
+🔍 砂川高等学校（通信制） - https://www.metro.ed.jp/sunagawa-hc/
+🚫 特待制度なし: 砂川高等学校（通信制）
+🔍 聖パウロ学園高等学校エンカレッジコース（通信制） - https://www.st-paul.ed.jp/tsushin/
+❌ メインページ取得失敗: 403
+🔍 美原高等学校 - https://www.metro.ed.jp/mihara-h/
+🚫 特待制度なし: 美原高等学校
+🔍 東京都立南多摩中等教育学校 - https://www.metro.ed.jp/minamitama-s/
+🚫 特待制度なし: 東京都立南多摩中等教育学校
+🔍 町田総合高等学校 - http://www.machida-sogo-h.metro.tokyo.jp/
+⚠️ 町田総合高等学校 例外: HTTPConnectionPool(host='www.machida-sogo-h.metro.tokyo.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x11634e620>: Failed to resolve 'www.machida-sogo-h.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 東京成徳大学高等学校（中高一貫部） - https://www.tokyoseitoku.jp/js/
+✅ 特待制度あり: 東京成徳大学高等学校（中高一貫部）
+🔍 若葉総合高等学校 - https://www.metro.ed.jp/wakabasogo-h/
+🚫 特待制度なし: 若葉総合高等学校
+🔍 桜修館中等教育学校 - http://www.oshukanchuto-e.metro.tokyo.jp/site/zen/
+⚠️ 桜修館中等教育学校 例外: HTTPConnectionPool(host='www.oshukanchuto-e.metro.tokyo.jp', port=80): Max retries exceeded with url: /site/zen/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x113455300>: Failed to resolve 'www.oshukanchuto-e.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 大泉桜高等学校 - https://www.metro.ed.jp/oizumisakura-h/
+🚫 特待制度なし: 大泉桜高等学校
+🔍 小石川中等教育学校（高等課程） - https://www.metro.ed.jp/koishikawa-s/
+🚫 特待制度なし: 小石川中等教育学校（高等課程）
+🔍 立志舎高等学校（通信制） - https://www.risshisha.ed.jp/
+✅ 特待制度あり: 立志舎高等学校（通信制）
+🔍 大江戸高等学校（定時制） - https://www.metro.ed.jp/oedo-he/
+🚫 特待制度なし: 大江戸高等学校（定時制）
+🔍 中央大学高等学校 - https://www.cu-hs.chuo-u.ac.jp/
+🚫 特待制度なし: 中央大学高等学校
+🔍 六郷工科高等学校（定時制） - https://rokugokoka-h.metro.ed.jp/
+🚫 特待制度なし: 六郷工科高等学校（定時制）
+🔍 八王子拓真高等学校（定時制） - https://hachioji-takushin-h.metro.ed.jp/pc/index.html
+⚠️ 八王子拓真高等学校（定時制） 例外: HTTPSConnectionPool(host='hachioji-takushin-h.metro.ed.jp', port=443): Max retries exceeded with url: /pc/index.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1134ca710>: Failed to resolve 'hachioji-takushin-h.metro.ed.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 立川国際中等教育学校 - http://www.tachikawachuto-e.metro.tokyo.jp/site/zen/
+⚠️ 立川国際中等教育学校 例外: HTTPConnectionPool(host='www.tachikawachuto-e.metro.tokyo.jp', port=80): Max retries exceeded with url: /site/zen/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1134cb010>: Failed to resolve 'www.tachikawachuto-e.metro.tokyo.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+🔍 翔陽高等学校 - https://www.metro.ed.jp/shoyo-h/
+🚫 特待制度なし: 翔陽高等学校
+🔍 ドルトン東京学園高等部 - https://www.daltontokyo.ed.jp/
+🚫 特待制度なし: ドルトン東京学園高等部
+🔍 大智学園高等学校　東京校（通信制） - https://www.daichi.ed.jp/
+🚫 特待制度なし: 大智学園高等学校　東京校（通信制）
+🔍 赤羽北桜高等学校 - https://www.metro.ed.jp/akabanehokuo-h/
+🚫 特待制度なし: 赤羽北桜高等学校
+🔍 第一薬科大学付属高等学校　渋谷キャンパス（通信制） - https://t.f-parama.ed.jp/shibuya/
+❌ メインページ取得失敗: 404
+🎉 完了: scholarship_result/東京都_special_scholarship_flag.csv
