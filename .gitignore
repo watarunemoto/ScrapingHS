@@ -176,10 +176,11 @@ cython_debug/
 
 *.tmp          # 一時ファイル
 __pycache__/   # Pythonのキャッシュディレクトリ
-.venv           # 環境変数ファイル
-.env           # 環境変数ファイル
+.venv/          # Python仮想環境ディレクトリ
+.env/           # 環境変数ファイル
 node_modules/  # npmでインストールされるライブラリ
 .DS_Store      # macOSの隠しファイル
 .python-version
-Legacy
-logs
+Legacy/
+logs/
+
