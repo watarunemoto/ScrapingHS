@@ -181,3 +181,5 @@ __pycache__/   # Pythonのキャッシュディレクトリ
 node_modules/  # npmでインストールされるライブラリ
 .DS_Store      # macOSの隠しファイル
 .python-version
+Legacy
+logs
